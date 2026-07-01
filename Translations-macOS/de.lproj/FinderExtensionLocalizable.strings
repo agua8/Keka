@@ -2,12 +2,12 @@
 "Compress here" = "Hier komprimieren";
 "Compress to..." = "Komprimieren nach …";
 "Encrypt here" = "Hier verschlüsseln";
-"Encrypt to..." = "Verschlüsseln nach...";
-"Compress the contents of the folder here" = "Komprimiere den Inhalt des Ordners hierher";
+"Encrypt to..." = "Verschlüsseln nach …";
+"Compress the contents of the folder here" = "Komprimiere den Inhalt des Ordners hier";
 "Compress the contents of the folder to..." = "Komprimiere den Inhalt des Ordners nach …";
-"Encrypt with the default password here" = "Hier mit dem Standardpasswort verschlüsseln.";
-"Encrypt with the default password to..." = "Mit dem Standardpasswort nach … verschlüsseln.";
+"Encrypt with the default password here" = "Mit dem Standardpasswort hier verschlüsseln";
+"Encrypt with the default password to..." = "Mit dem Standardpasswort nach … verschlüsseln";
 "Extract here" = "Hier entpacken";
 "Extract to..." = "Entpacken nach …";
-"Extract to \"%@\"" = "Nach „%@“ entpacken";
+"Extract to \"%@\"" = "Nach \"%@\" entpacken";
 "Compress with Keka" = "Mit Keka komprimieren";
